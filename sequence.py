@@ -2,9 +2,9 @@ import streamlit as st
 from PIL import Image
 
 st.write("""
-# My first app
+# DNA Nucleotide Translator
 
-Hello *world!*
+Translates DNA sequences into their proper amino acid names.
 
 ***
 """)
